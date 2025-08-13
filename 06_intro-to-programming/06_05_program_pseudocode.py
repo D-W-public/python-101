@@ -6,3 +6,11 @@
 # You can also add real Python code after learning the necessary concepts.
 # For now, just practice breaking larger tasks into smaller steps
 # and writing out your thoughts in pseudocode.
+
+#Learn python
+
+#code mini game
+
+#???
+
+#profit
