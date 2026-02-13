@@ -6,3 +6,8 @@
 
 start = 1
 stop = 100
+
+for i in range(2,101):
+    start += i
+
+print(f"The sum is {start}")

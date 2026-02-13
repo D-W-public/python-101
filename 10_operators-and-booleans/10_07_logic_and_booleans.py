@@ -10,3 +10,7 @@
 
 wrong = False
 right = True
+
+result = (wrong and wrong) or not right
+
+print(result)

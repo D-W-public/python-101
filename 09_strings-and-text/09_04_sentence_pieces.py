@@ -5,3 +5,6 @@ q1 = "By seeking"
 q2 = "and"
 q3 = "blundering"
 q4 = "we learn."
+s = " "
+
+print(q1+s+q2+s+q3+s+q4)

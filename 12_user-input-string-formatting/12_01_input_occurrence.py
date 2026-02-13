@@ -4,3 +4,11 @@
 # String input: hello world
 # Letter input: o
 # Result: 4
+
+text = input("Please enter a word: ")
+
+letter = input("Please enter a letter: ")
+
+for c in text:
+    if c == letter:
+        print(text.index(c))

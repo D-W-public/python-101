@@ -3,3 +3,9 @@
 
 secret = "2349h30023388281e3299371l1l3094842o0333322883"
 solution = ""
+
+for c in secret:
+    if c.isalpha():
+        solution += c
+
+print(solution)
