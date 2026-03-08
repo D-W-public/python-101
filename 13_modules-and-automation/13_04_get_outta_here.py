@@ -12,5 +12,5 @@ while True:
     if user_input == "quit":
         print("Shut down initiated.")
         sys.exit()
-
-    print("Almost....")
+    else:
+        print("Almost....")

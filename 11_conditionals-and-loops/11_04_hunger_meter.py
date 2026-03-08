@@ -7,8 +7,7 @@
 
 hunger = 2
 
-if hunger == type(str):
-
+if hunger is type(str):
     if hunger == "big":
         print("Eat the pizza")
     elif hunger == "small":
