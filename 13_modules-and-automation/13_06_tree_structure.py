@@ -4,7 +4,7 @@
 
 from pathlib import Path
 
-labs = Path.home() / "CodingNomads" / "python-101"
+labs_dir = Path.home() / "CodingNomads" / "python-101"
 
-for file in labs.rglob("*.py"):
+for file in labs_dir.rglob("*.py"):
     print(file.name)
