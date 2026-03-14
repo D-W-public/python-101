@@ -27,4 +27,6 @@ elif m in range(1, 13):
     m -= 1
     print(months[m])
 
-# came up with this, tried to nest this didnt work... had the llm do as you ask. horrible way to design code. dont know why you would have people learnig this write it.
+# came up with this, tried to nest this didnt work...
+# so i guess your solution is to write an if statement for every single month in a chain...
+# I prefer mine

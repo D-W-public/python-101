@@ -16,7 +16,7 @@ There are two doors in front of you.
 
 # Present them with a choice between two doors.
 
-while Flag == True:
+while Flag is True:
     door = str(
         input(f"""
 Pick a door {player_name}
